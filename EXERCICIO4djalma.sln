@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCICIO4djalma", "EXERCICIO4djalma\EXERCICIO4djalma.csproj", "{01F6F2E7-833C-4B33-93AB-16C11600F672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F6F2E7-833C-4B33-93AB-16C11600F672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F6F2E7-833C-4B33-93AB-16C11600F672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F6F2E7-833C-4B33-93AB-16C11600F672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F6F2E7-833C-4B33-93AB-16C11600F672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E05A3D-746A-4895-8CAE-8EB315C9140B}
+	EndGlobalSection
+EndGlobal
